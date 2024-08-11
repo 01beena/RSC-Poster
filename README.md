@@ -5,7 +5,7 @@ RSC Poster presentation
 ## Overview
 This repository has been established as part of our participation in the Poster Competition organized by the **Royal Society of Chemistry**. It is dedicated to showcasing our research and findings on the recent advancements in metal-modified porous carbon materials for dopamine detection.
 
-🔗 Our poster submission: https://www.linkedin.com/posts/zartashiaafzal_rscposter-rscanalytical-activity-7171112220125335552-P-z1?utm_source=share&utm_medium=member_desktop
+🔗 Our poster submission: (https://www.linkedin.com/posts/beena-yousuf-403515266_rscposter-rscanalytical-activity-7171180671237799936--1Z1?utm_source=share&utm_medium=member_desktop)
 
 
 ## Contents
